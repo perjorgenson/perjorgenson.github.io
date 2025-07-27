@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/per/devel/web/quickstart",
+	"sourceRoot": "/home/per/devel/web/perjorgenson.github.io.dev/site",
 	"sources": [
 		"ananke/css/main.css"
 	],
