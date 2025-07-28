@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Per&#39;s Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Jul 2025 09:39:09 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jul 2025 21:35:58 -0700</lastBuildDate>
     <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pisco Sour At Home</title>
+      <link>https://example.org/posts/pisco_sour_at_home/pisco_sour_at_home/</link>
+      <pubDate>Sun, 27 Jul 2025 21:35:58 -0700</pubDate>
+      <guid>https://example.org/posts/pisco_sour_at_home/pisco_sour_at_home/</guid>
+      <description>&lt;p&gt;A protein rich twist on the classic Pisco Sour. This one is dedicated to Kelcey, even though he&amp;rsquo;d hate this recipe in particular. The &amp;ldquo;At Home&amp;rdquo; part is homage to the fact that I do not own a cocktail shaker.&lt;/p&gt;&#xA;&lt;p&gt;Ingredients and Tools:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 whole egg&lt;/li&gt;&#xA;&lt;li&gt;Half a lime, and a way to juice it&lt;/li&gt;&#xA;&lt;li&gt;A few dashes of aromatic bitters&lt;/li&gt;&#xA;&lt;li&gt;2 ounce pisco&lt;/li&gt;&#xA;&lt;li&gt;1 ounce simple syrup&lt;/li&gt;&#xA;&lt;li&gt;Some ice cubes&lt;/li&gt;&#xA;&lt;li&gt;A blender bottle (without the metal whisk)&lt;/li&gt;&#xA;&lt;li&gt;Your favorite drinking vessel&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://example.org/posts/pisco_sour_at_home/pisco_sour_ingredients.jpg&#34; alt=&#34;Pisco Sour Ingredients&#34; title=&#34;Pisco Sour Ingredients&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>ESP32 Timelapse Camera</title>
       <link>https://example.org/posts/timelapse_camera/timelapse_camera/</link>
