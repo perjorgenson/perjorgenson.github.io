@@ -6,14 +6,28 @@
     <description>Recent content on Per&#39;s Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Jul 2025 21:35:58 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 21:00:00 -0700</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eggboard: Collaborative Whiteboard for RPGs</title>
+      <link>https://example.org/posts/eggboard/eggboard/</link>
+      <pubDate>Thu, 05 Feb 2026 21:00:00 -0700</pubDate>
+      <guid>https://example.org/posts/eggboard/eggboard/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;I created a collaborative whiteboarding web app to help organize the direction of table-top roleplaying games I play with my freinds. The free tool we were using, Zoom&amp;rsquo;s in-built whiteboard, had some feature limitations in the free version, and looked kind of ugly. So I made something myself (with lots of help from Claude).&lt;/p&gt;&#xA;&lt;h2 id=&#34;so-what-is-it&#34;&gt;So what is it?&lt;/h2&gt;&#xA;&lt;p&gt;It&amp;rsquo;s a web-app, that you can open up on your personal computer. The scope of it is kept pretty small&amp;ndash;I just want to be able to organize short and long text, notes, and images (eventually).&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Pisco Sour At Home</title>
       <link>https://example.org/posts/pisco_sour_at_home/pisco_sour_at_home/</link>
       <pubDate>Sun, 27 Jul 2025 21:35:58 -0700</pubDate>
       <guid>https://example.org/posts/pisco_sour_at_home/pisco_sour_at_home/</guid>
       <description>&lt;p&gt;A protein rich twist on the classic Pisco Sour. This one is dedicated to Kelcey, even though he&amp;rsquo;d hate this recipe in particular. The &amp;ldquo;At Home&amp;rdquo; part is homage to the fact that I do not own a cocktail shaker.&lt;/p&gt;&#xA;&lt;p&gt;Ingredients and Tools:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 whole egg&lt;/li&gt;&#xA;&lt;li&gt;Half a lime, and a way to juice it&lt;/li&gt;&#xA;&lt;li&gt;A few dashes of aromatic bitters&lt;/li&gt;&#xA;&lt;li&gt;2 ounce pisco&lt;/li&gt;&#xA;&lt;li&gt;1 ounce simple syrup&lt;/li&gt;&#xA;&lt;li&gt;Some ice cubes&lt;/li&gt;&#xA;&lt;li&gt;A blender bottle (without the metal whisk)&lt;/li&gt;&#xA;&lt;li&gt;Your favorite drinking vessel&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://example.org/posts/pisco_sour_at_home/pisco_sour_ingredients.jpg&#34; alt=&#34;Pisco Sour Ingredients&#34; title=&#34;Pisco Sour Ingredients&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Egg Day: A Day of Egg</title>
+      <link>https://example.org/posts/egg_day/egg_day/</link>
+      <pubDate>Sun, 27 Jul 2025 18:55:48 -0700</pubDate>
+      <guid>https://example.org/posts/egg_day/egg_day/</guid>
+      <description>&lt;p&gt;A list of ways that eggs can be appreciated and used.&lt;/p&gt;&#xA;&lt;h1 id=&#34;egg-food--beverages&#34;&gt;Egg Food &amp;amp; Beverages&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Egg Pale Ale&lt;/li&gt;&#xA;&lt;li&gt;Egg Raw&lt;/li&gt;&#xA;&lt;li&gt;Egg Scramble&lt;/li&gt;&#xA;&lt;li&gt;Egg Coffee&lt;/li&gt;&#xA;&lt;li&gt;Egg Ramen&lt;/li&gt;&#xA;&lt;li&gt;Egg Rum&lt;/li&gt;&#xA;&lt;li&gt;Egg-beverage (Pisco Sour)&lt;/li&gt;&#xA;&lt;li&gt;Egg Custard&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;activities&#34;&gt;Activities&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Egg Run&lt;/li&gt;&#xA;&lt;li&gt;Egg Appreciation&lt;/li&gt;&#xA;&lt;li&gt;Egg Shower&lt;/li&gt;&#xA;&lt;li&gt;Egg Easter&lt;/li&gt;&#xA;&lt;li&gt;Egg (verb)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>ESP32 Timelapse Camera</title>
